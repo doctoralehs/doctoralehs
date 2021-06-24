@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @doctoralehs
-- 👀 I’m interested in video games and music
+- 👀 I’m interested in video games and music and now software dev
 - 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on various projects that create solutions for software nationwide
-- 📫 How to reach me ...
+- 📫 Reach me via email at doctormud@live.com
 
 <!---
 doctoralehs/doctoralehs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
